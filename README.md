@@ -54,6 +54,6 @@ Types of Big Data are
 
 
 ### References:
-##### 1. https://www.techtarget.com/searchdatamanagement/definition/5-Vs-of-big-data     
-##### 2. https://www.geeksforgeeks.org/types-of-big-data/
-##### 3. https://www.sas.com/en_in/insights/big-data/what-is-big-data.html#:~:text=Big%20data%20refers%20to%20data,around%20for%20a%20long%20time
+##### 1. Alexander S. Gillis. (https://www.techtarget.com/searchdatamanagement/definition/5-Vs-of-big-data)     
+##### 2. ssanya0904. (https://www.geeksforgeeks.org/types-of-big-data/)
+##### 3. (https://www.sas.com/en_in/insights/big-data/what-is-big-data.html#:~:text=Big%20data%20refers%20to%20data,around%20for%20a%20long%20time)
