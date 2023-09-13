@@ -1,14 +1,13 @@
 ##                                                                  Big-Data-Assignment1
 ### 1. What is big data with example and types
 
-     The Combination of Unstructured, Semi-structured and Structured data collected by different Organizations is known as Big Data. Also, it refers to that it is impossible to process the large, fast or complex and difficult data in Traditional methods.
-
-      In  medical field Big Data is used to find the disease risk factors or by doctors to find patients illness is an example for Big Data
+          The Combination of Unstructured, Semi-structured and Structured data collected by different Organizations is known as Big Data[1]. Also, it refers to that it is impossible to process the large, fast or complex and difficult data in Traditional methods.[3]
+          In  medical field Big Data is used to find the disease risk factors or by doctors to find patients illness is an example for Big Data[1]
 
 Types of Big Data are 
        Structured Data :It is defined as the Data that resides in a fixed field with record.(i.e, Birthday). 
        Semi- Structured Data: The data doesn’t need a structured query language, it is commonly called NoSQL data.(i.e, email). 
-       Unstructutred Data : Data doesnt having any regular informationn and not following the set of rules.(i.e, webpages).
+       Unstructutred Data : Data doesnt having any regular informationn and not following the set of rules.(i.e, webpages).[2]
 
 
 ### 2. 6 ‘V’s of Big Data (define each)
@@ -19,7 +18,7 @@ Types of Big Data are
 - Variety : Refers to different types of data, such as Structured, Semi-Structured and Un-Structured Data types.
 - Variability :  The inconsistency present in the data and which makes it diffcult to handle and process the data is variability.
 - Veracity : The Quality and Accuracy of Data are comes under Veracity. To extract value from the data, the data needs to be cleaned and noise to be removed.
-- Value : It is directly related to orgaizations that collecting the data. Mainly extracting the Useful Information.
+- Value : It is directly related to orgaizations that collecting the data. Mainly extracting the Useful Information.[1]
   
 
 ### 3. Phases of Big Data analysis (discuss each)
@@ -54,7 +53,7 @@ Types of Big Data are
 
 
 
-
-(https://www.techtarget.com/searchdatamanagement/definition/5-Vs-of-big-data.)     
-(https://www.geeksforgeeks.org/types-of-big-data/)
-(https://www.sas.com/en_in/insights/big-data/what-is-big-data.html#:~:text=Big%20data%20refers%20to%20data,around%20for%20a%20long%20time.)
+### References:
+##### 1. https://www.techtarget.com/searchdatamanagement/definition/5-Vs-of-big-data     
+##### 2. https://www.geeksforgeeks.org/types-of-big-data/
+##### 3. https://www.sas.com/en_in/insights/big-data/what-is-big-data.html#:~:text=Big%20data%20refers%20to%20data,around%20for%20a%20long%20time
