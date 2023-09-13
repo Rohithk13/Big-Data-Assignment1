@@ -1,4 +1,4 @@
-## Big-Data-Assignment1
+##                                                                  Big-Data-Assignment1
 ### 1. What is big data with example and types
 
      The Combination of Unstructured, Semi-structured and Structured data collected by different Organizations is known as Big Data. Also, it refers to that it is impossible to process the large, fast or complex and difficult data in Traditional methods.
