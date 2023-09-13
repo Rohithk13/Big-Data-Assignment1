@@ -1,14 +1,14 @@
 ## Big-Data-Assignment1
 ### 1. What is big data with example and types
 
-The Combination of Unstructured, Semi-structured and Structured data collected by different Organizations is known as Big Data. Also, it refers to that it is impossible to process the large, fast or complex and difficult data in Traditional methods.
+     The Combination of Unstructured, Semi-structured and Structured data collected by different Organizations is known as Big Data. Also, it refers to that it is impossible to process the large, fast or complex and difficult data in Traditional methods.
 
-In  medical field Big Data is used to find the disease risk factors or by doctors to find patients illness is an example for Big Data
+      In  medical field Big Data is used to find the disease risk factors or by doctors to find patients illness is an example for Big Data
 
 Types of Big Data are 
-Structured Data :It is defined as the Data that resides in a fixed field with record.(i.e, Birthday). 
-Semi- Structured Data: The data doesn’t need a structured query language, it is commonly called NoSQL data.(i.e, email). 
-Unstructutred Data : Data doesnt having any regular informationn and not following the set of rules.(i.e, webpages).
+       Structured Data :It is defined as the Data that resides in a fixed field with record.(i.e, Birthday). 
+       Semi- Structured Data: The data doesn’t need a structured query language, it is commonly called NoSQL data.(i.e, email). 
+       Unstructutred Data : Data doesnt having any regular informationn and not following the set of rules.(i.e, webpages).
 
 
 ### 2. 6 ‘V’s of Big Data (define each)
